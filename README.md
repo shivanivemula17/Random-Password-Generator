@@ -21,6 +21,4 @@ CSS: Styling for a clean and intuitive interface.
 JavaScript: Logic for generating random passwords and handling user interactions.
 Screenshots
 
-
-Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+<img src="password generator screenshot.jpg" alt="screenshot">
